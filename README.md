@@ -1,2 +1,7 @@
 # first-repository
-Test
+Terminology
+Reository - file
+pull
+push
+commit
+
